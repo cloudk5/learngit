@@ -9,3 +9,6 @@ Git is free software.
 
 2019/07/05
 Creating a new branch is quick and simple.
+
+2019/07/05 10:12
+git merge --no-ff test
